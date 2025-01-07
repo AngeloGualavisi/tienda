@@ -1,1 +1,9 @@
-.env
+# Ignorar entorno virtual
+env/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones de VS Code
+.vscode/
